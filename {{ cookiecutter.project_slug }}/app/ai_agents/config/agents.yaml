@@ -1,0 +1,7 @@
+instanciar_o_agente:
+  role: >
+    { inserir a função do agente }
+  goal: >
+    { inserir o objetivo do agente }
+  backstory: >
+    { inserir o backstory do agente }
